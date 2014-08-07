@@ -1,0 +1,14 @@
+{
+  "name": "touch-dnd",
+  "version": "0.4.4",
+  "description": "jQuery component",
+  "keywords": [
+    "jquery",
+    "component"
+  ],
+  "main": "touch-dnd.js",
+  "license": "MIT",
+  "dependencies": {
+    "jquery" : "~1.11.1"
+  }
+}
